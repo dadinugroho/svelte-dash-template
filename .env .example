@@ -1,0 +1,2 @@
+VITE_API_NAME=mydashboard
+VITE_PB_SERVER=http://localhost:8090
